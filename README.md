@@ -15,5 +15,3 @@ RegaloShop es una solución full-stack para lanzar una tienda de regalos y ropa 
 - Terraform 1.5+
 - Ansible 2.14+
 - AWS CLI v2 con credenciales que permitan administrar ECR/ECS/VPC/ALB
-
-¿Dudas o mejoras? Revisa los módulos en `infra/`, ajusta variables en `terraform.tfvars` e itera en `ansible/deploy.yml` para adaptar el flujo a tus procesos. ¡Buen despliegue!***
